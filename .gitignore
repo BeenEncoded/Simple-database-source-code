@@ -1,0 +1,14 @@
+*.a
+*.o
+*dist
+*.inc
+*nbproject
+*stat
+*.sh
+*.exe
+*CMakeFiles*
+*Unit_Testing
+*jonathans_database_program*
+*input.txt*
+*output.txt*
+*Doc*
